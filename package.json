@@ -1,0 +1,23 @@
+{
+  "name": "twtcln",
+  "version": "1.0.0",
+  "description": "Twitter Backend Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankal-27/twtcln.git"
+  },
+  "keywords": [
+    "twitter",
+    "backend"
+  ],
+  "author": "Manjunath R K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankal-27/twtcln/issues"
+  },
+  "homepage": "https://github.com/mankal-27/twtcln#readme"
+}
